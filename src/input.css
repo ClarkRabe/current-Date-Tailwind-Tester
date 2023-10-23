@@ -5,5 +5,8 @@
 
 /* Your Awesome Styles */
 * {
-    outline: 1px dotted gray;
+    color: rgb(47, 167, 204);
+    font-family: font-mono;
 }
+
+
